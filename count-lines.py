@@ -1,4 +1,8 @@
 
+"""This module counts the number of lines in standard input
+   Input: String from the standard input
+"""
+
 import sys
 
 count=0
